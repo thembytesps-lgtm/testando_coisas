@@ -1,2 +1,2 @@
 print('testando coisas')
-print("pika demais uai")
+print('testando coisas2')
