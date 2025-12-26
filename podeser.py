@@ -6,3 +6,6 @@ print(type(numero_complexo))
 
 print("algo como isso:\n" \
 "\ttipo isso?")
+
+texto = 'Alacabaca meu cria, tudo suave?'
+
