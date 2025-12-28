@@ -31,3 +31,4 @@ while len(top_filmes) < 10:
     top_filmes.append(input('Diga um filme bom: '))
 
 print(top_filmes) """
+
